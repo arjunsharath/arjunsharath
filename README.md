@@ -4,7 +4,7 @@
 
 
 
-<p align="left"> <a href="https://twitter.com/arjunsharath20" target="blank"><img src="https://img.shields.io/twitter/follow/arjunsharath20?logo=twitter&style=for-the-badge" alt="arjunsharath20" /></a> </p>
+
 
 
 <h3 align="left">Languages and Tools:</h3>
